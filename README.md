@@ -1,0 +1,1 @@
+TCP CONNECT tool is the fastest way to scan host for open ports through TOR network (or SOCK4)
